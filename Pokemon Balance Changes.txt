@@ -1,0 +1,1381 @@
+use CTRL+F to find the pokemon you want to know changed
+
+Pokemon Balance Changes:
+
+Template:
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability: 
+
+Gen 1 Pokemon:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Bulbasaur 
+Type: Grass/Poison
+HP        = 45
+Attack    = 49
+Defense   = 49
+SpAttack  = 65
+SpDefense = 65
+Speed     = 45
+Ability: Overgrow/Chlorophyll/Thick Fat
+
+Ivysaur
+Type: Grass/Poison
+HP        = 60
+Attack    = 62
+Defense   = 63
+SpAttack  = 80
+SpDefense = 80
+Speed     = 60
+Ability: Overgrow/Chlorophyll/Thick Fat
+
+Venusuar
+Type: Grass/Poison
+HP        =  80
+Attack    =  82
+Defense   =  86 -> 96
+SpAttack  =  100
+SpDefense =  100
+Speed     =  80
+Ability: Overgrow/Chlorophyll/Thick Fat
+
+Mega Venusuar
+Type: Grass/Poison
+HP        =  80
+Attack    =  100 -> 122
+Defense   =  123
+SpAttack  =  80
+SpDefense =  120
+Speed     =  100
+Ability: Thick Fat
+
+Charmander
+Type: Fire
+HP        =  39
+Attack    =  52 -> 60
+Defense   =  43
+SpAttack  =  60 -> 52
+SpDefense =  50
+Speed     =  65
+Ability: Blaze/Flash Fire/Solar Power
+
+Chameleon:
+Type: Fire
+HP        =  58
+Attack    =  64 -> 80
+Defense   =  58
+SpAttack  =  80 -> 64
+SpDefense =  65
+Speed     =  80
+Ability: Blaze/Flash Fire/Solar Power
+
+Charizard:
+Type: Fire/Flying
+HP        =  78
+Attack    =  84 -> 109
+Defense   =  78 
+SpAttack  =  84
+SpDefense =  85
+Speed     =  100 -> 101
+Ability: Blaze/Levitate/Solar Power
+
+Squirtle
+Type: Water
+HP        =  44 -> 49
+Attack    =  48
+Defense   =  65
+SpAttack  =  50 -> 66
+SpDefense =  64
+Speed     =  43
+Ability: Torret/Swift Swim/Shell Armor
+
+Wartortle
+Type: Water
+HP        =  59
+Attack    =  63
+Defense   =  80
+SpAttack  =  65 -> 85
+SpDefense =  80
+Speed     =  58
+Ability: Torrent/Swift Swim/Shell Armor
+
+Blastoise:
+Type: Water/Steel
+HP        = 79
+Attack    = 83  -> 78
+Defense   = 100 -> 110
+SpAttack  = 85  -> 105
+SpDefense = 105 -> 100
+Speed     = 78  -> 68
+Ability: Torrent/Mega launcher/Shell Armor
+
+Mega Blastoise
+Type: Water/Steel
+HP        = 79
+Attack    = 103
+Defense   = 120
+SpAttack  = 135 
+SpDefense = 115
+Speed     = 78
+Ability: RailCannon
+
+Butterfree:
+Type: Bug/Flying
+HP        = 60 -> 65
+Attack    = 45
+Defense   = 50 -> 60
+SpAttack  = 90 
+SpDefense = 80
+Speed     = 70 
+Ability: Compound Eyes/Honey Gather/Toxic Dust
+
+Beedrill:
+HP        = 65
+Attack    = 90 -> 100
+Defense   = 40
+SpAttack  = 45 
+SpDefense = 80
+Speed     = 75 -> 90
+Ability: Swarm -> Meciless/Swarm/Hive Mind
+
+Rattata
+Type: Normal
+HP        = 30 
+Attack    = 56
+Defense   = 35
+SpAttack  = 25
+SpDefense = 35
+Speed     = 72
+Ability: Run Away/Strong Jaw
+
+Raticate: 
+Ability: Runaway/Guts -> Strong jaw/Swft Swim/Thick Fat
+
+Fearow
+Type: Normal/Flying
+HP        = 65 -> 100
+Attack    = 90
+Defense   = 65
+SpAttack  = 61
+SpDefense = 61
+Speed     = 100
+Ability: Keen Eye/Sniper/Big Pecks
+
+Ekans
+Type: Poison
+HP        = 35 -> 57
+Attack    = 60
+Defense   = 44
+SpAttack  = 40
+SpDefense = 54
+Speed     = 55 -> 75
+Ability: Intimidat/Shed Skin/Unnerve
+
+Arbok
+Type: Poison/Dark
+HP        = 60 -> 82
+Attack    = 95 -> 120
+Defense   = 69
+SpAttack  = 65
+SpDefense = 79
+Speed     = 80 -> 90
+Ability: Intimidate/Shed Skin/Unnerve
+
+Cosplay Pikachu:
+HP        = 35 -> 60
+Attack    = 55 -> 100
+Defense   = 40 -> 60
+SpAttack  = 50 -> 80
+SpDefense = 50 -> 65
+Speed     = 90 -> 120
+
+Rockstar Pikachu:
+TYPE = Electric -> Fire/Steel
+HP        = 35 -> 60
+Attack    = 55 -> 105
+Defense   = 40 -> 120
+SpAttack  = 50 -> 65
+SpDefense = 50
+Speed     = 90 -> 85
+
+Belle Pikachu:
+TYPE = Electric -> Electric/Ice
+HP        = 35 -> 70
+Attack    = 55 -> 50
+Defense   = 40 -> 60
+SpAttack  = 50 -> 115
+SpDefense = 50 -> 110
+Speed     = 90 -> 80
+
+Popstar Pikachu:
+TYPE = Electric -> Electric/Fairy
+HP        = 35 -> 110
+Attack    = 55 -> 50
+Defense   = 40 -> 70
+SpAttack  = 50 -> 100
+SpDefense = 50 -> 75
+Speed     = 90 
+
+PHD Pikachu:
+TYPE = Electric -> Electric/Psychic
+HP        = 35 -> 73
+Attack    = 55 -> 52
+Defense   = 40 -> 61
+SpAttack  = 50 -> 118
+SpDefense = 50 -> 77
+Speed     = 90 -> 107
+
+Libre Pikachu:
+TYPE = Electric -> Electric/Fighting
+HP        = 35 -> 70
+Attack    = 55 -> 125
+Defense   = 40 -> 90
+SpAttack  = 50
+SpDefense = 50
+Speed     = 90 -> 100
+
+Mega Pikachu:
+HP        = 180
+Attack    = 110
+Defense   = 70
+SpAttack  = 115
+SpDefense = 70
+Speed     = 50
+Ability: Thick Fat/Lightning rod
+
+Raichu:
+Type: Electric
+HP        = 60
+Attack    = 90 -> 105
+Defense   = 55 -> 60
+SpAttack  = 90 
+SpDefense = 80
+Speed     = 110
+Ability: Lighting Rod/Illuminate
+
+Alolan Raichu
+Type: Electric/Psychic
+HP        = 60
+Attack    = 85
+Defense   = 50 -> 55
+SpAttack  = 95 -> 105
+SpDefense = 85
+Speed     = 110
+Ability: Static/Surge Surfer
+
+Sandshrew
+Type: Ground/Normal
+HP        = 50
+Attack    = 75
+Defense   = 85
+SpAttack  = 20
+SpDefense = 30
+Speed     = 40 -> 65
+Ability: Tough Claws/Sand Rush/Rough Skin
+
+Alolan Sandshrew
+Type: Ice/Steel
+HP        = 50
+Attack    = 75 -> 95
+Defense   = 90
+SpAttack  = 10
+SpDefense = 35
+Speed     = 40
+Ability: Tough Claws/Slash rush/Rough Skin
+ 
+Sandslash
+Type: Ground/Normal
+HP        = 75
+Attack    = 100 -> 110
+Defense   = 110
+SpAttack  = 45  -> 25
+SpDefense = 55  
+Speed     = 65  -> 95
+Ability: Tough Claws/Sand Rush/Iron Barbs
+
+Alolan Sandslash
+Type: Ice/Steel
+HP        = 75
+Attack    = 100 -> 115
+Defense   = 120
+SpAttack  = 25
+SpDefense = 65 -> 70
+Speed     = 65
+Ability: Tough Claws/Sush Rush/Iron Barbs
+
+Nidoking: 
+Ability: Poison point/Rivalry -> Sheer force/Rivalry
+
+Nidoqueen Poison point/Rivalry -> Supreme Overlord/Poison point
+
+Vulpix
+Type: Fire
+HP        = 38 -> 40
+Attack    = 41
+Defense   = 40
+SpAttack  = 50 -> 65
+SpDefense = 65
+Speed     = 65
+Ability: Flash Fire/Drought
+
+Ninetales
+Type: Fire/Fairy
+HP        = 73 -> 75
+Attack    = 76
+Defense   = 75
+SpAttack  = 81 ->  100
+SpDefense = 100 -> 110
+Speed     = 100 -> 110
+Ability: Flash Fire/Drought
+
+Alolan Vulpix
+Type: Ice/Fairy
+HP        = 38 -> 40
+Attack    = 41
+Defense   = 40
+SpAttack  = 50 -> 65
+SpDefense = 65 -> 75
+Speed     = 65 -> 75
+Ability: Dazzling/Snow Warning
+
+Alolan Ninetales
+Type: Ice/Fairy
+HP        = 73  -> 75
+Attack    = 70
+Defense   = 75
+SpAttack  = 81  -> 100
+SpDefense = 100 -> 116
+Speed     = 109 -> 109
+Ability: Dazzling/Snow Warning
+
+Meowth:
+Type: Normal
+HP        = 40
+Attack    = 45 -> 65
+Defense   = 35
+SpAttack  = 40 -> 60
+SpDefense = 40
+Speed     = 90
+Ability: Technician
+
+Persian:
+Type: Normal
+HP        = 65
+Attack    = 70 -> 90
+Defense   = 60
+SpAttack  = 65 -> 85
+SpDefense = 65
+Speed     = 115
+Ability: Technician
+
+Graveler:
+Rock/Ground
+HP        = 55
+Attack    = 95
+Defense   = 115
+SpAttack  = 45
+SpDefense = 45 -> 65
+Speed     = 35 -> 55 
+Ability: Sturdy/Solid Rock/Sand Force
+
+Graveler:
+Rock/Electric
+HP        = 55
+Attack    = 95
+Defense   = 115
+SpAttack  = 45
+SpDefense = 45 
+Speed     = 35 -> 70
+Ability: Sturdy/Magnet Pull/Galvanize
+
+Golem:
+HP        = 80
+Attack    = 120
+Defense   = 130
+SpAttack  = 55
+SpDefense = 65 -> 85
+Speed     = 45 -> 65 
+Ability: Sturdy/Solid Rock/Sand Force
+
+Alolan Golem:
+HP        = 80
+Attack    = 120
+Defense   = 130
+SpAttack  = 55 -> 100
+SpDefense = 65
+Speed     = 45 -> 85
+Ability: Sturdy/Magnet Pull/Galvanize
+
+Ponyta
+Type: Fire
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+
+Rapidash:
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+
+Magnemite:
+Type: Electric/Steel
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+
+Magneton:
+Type: Electric/Steel
+HP        = 50
+Attack    = 60
+Defense   = 95
+SpAttack  = 125
+SpDefense = 70
+Speed     = 70
+Ability: Sturdy/Magnet Pull/Analytic
+
+Magnezone:
+Type: Electric/Steel
+HP        = 
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability: Electric Surge/Magnet Pull/Levitate
+
+Jigglypuff:
+Type: Normal/Fairy
+HP        = 115
+Attack    = 45 -> 30
+Defense   = 20 -> 30
+SpAttack  = 45 -> 80
+SpDefense = 25 -> 35
+Speed     = 20 -> 90
+Ability: Huge Power/Competitive/Friend Gaurd
+
+Wigglytuff:
+Type: Normal/Fairy
+HP        = 140
+Attack    = 70 -> 95
+Defense   = 45 -> 60
+SpAttack  = 85 -> 100
+SpDefense = 50 -> 65
+Speed     = 45 -> 60
+Ability: Serene Grace/Competitive/Thick Fat
+
+Paras
+Type: Bug/Grass
+HP        = 35 -> 65
+Attack    = 70 -> 75
+Defense   = 55
+SpAttack  = 45
+SpDefense = 55
+Speed     = 25
+Ability: Effect Spore/Dry Skin/Sap Sipper
+
+Parasect
+Type: Bug/Ghost
+HP        = 60 -> 90
+Attack    = 95 -> 100
+Defense   = 80
+SpAttack  = 60
+SpDefense = 80
+Speed     = 30
+Ability: Effect Spore/Dry Skin/Sap Sipper
+
+Venonat
+Type: Bug/Poison
+HP        = 60
+Attack    = 55 -> 65
+Defense   = 50
+SpAttack  = 40
+SpDefense = 55
+Speed     = 45
+Ability:
+
+Venomoth
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+
+Diglett
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+
+Dugtrio
+Type: Ground 
+HP        = 35
+Attack    = 100
+Defense   = 50
+SpAttack  = 50
+SpDefense = 70
+Speed     = 120
+Ability: Sand Force/Arena Trap/Sturdy
+
+Psyduck & Golduck: Water -> Water/Psychic
+Psyduck:
+HP        = 50
+Attack    = 52 -> 65
+Defense   = 48
+SpAttack  = 65 
+SpDefense = 50
+Speed     = 55 -> 60
+Ability: Swift Swim/Cloud9
+
+Golduck:
+HP        = 80
+Attack    = 82 -> 95
+Defense   = 78
+SpAttack  = 95 
+SpDefense = 80
+Speed     = 85 -> 90
+Ability: Swift swim/Cloud9
+
+Farfetch'd:
+HP        = 52
+Attack    = 90 
+Defense   = 55
+SpAttack  = 58
+SpDefense = 62
+Speed     = 60 -> 90
+Ability: Keen Eye
+
+Mega Machamp:
+HP        = 90
+Attack    = 130 -> 150
+Defense   = 80 -> 100
+SpAttack  = 65 -> 90
+SpDefense = 85 -> 105
+Speed     = 55 -> 70
+
+Scyther:
+ABILITY: SWARM-> SHARPNESS/HYPER CUTTER
+
+Flareon:
+ABILITY: Flash fire and Guts-> Quick feet and Fluffy 
+
+Starmie:
+HP        = 60
+Attack    = 75
+Defense   = 85
+SpAttack  = 100
+SpDefense = 85
+Speed     = 115
+Ability = Victory Star/Natural Cure 
+
+Kingler: 
+TYPE = WATER-> WATER/STEEL
+Ability = Hyper Cutter/Shell Armor -> Sheer Force/Shell Armor
+
+Dewgong:
+Type: Water/Ice
+HP        = 90
+Attack    = 70 -> 100
+Defense   = 80
+SpAttack  = 70
+SpDefense = 95
+Speed     = 70
+Ability: Thick Fat/Swift Swim/Lighting Rod
+
+Kabutops:
+Abiltiy: Battle Armor->Sharpness
+Notable Move additions: Razor shell and Stone axe 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gen 2 Pokemon:
+
+Ariados:
+HP        = 70 -> 100
+Attack    = 90
+Defense   = 85
+SpAttack  = 60
+SpDefense = 65
+Speed     = 40 
+ability Sniper/Insomnia 
+
+Entire Azurill evolution line:
+Ability: Thick Fat/Huge Power/Sap Sipper
+
+Sentret:
+Evolves at level 14
+
+Furret:
+HP        = 85
+Attack    = 76 -> 80
+Defense   = 64
+SpAttack  = 45
+SpDefense = 55
+Speed     = 90
+Ability: Run Away/Keen Eye -> Fluffy/Run Away/Keen Eye
+
+Flaafy:
+HP        = 70
+Attack    = 55
+Defense   = 55 -> 60
+SpAttack  = 80
+SpDefense = 60 -> 70
+Speed     = 45 -> 35
+Ability: Static -> Static/Mold Breaker
+
+Ampharos:
+Type: Electric/Dragon
+HP        = 90
+Attack    = 75
+Defense   = 85 -> 90
+SpAttack  = 115
+SpDefense = 90 -> 100
+Speed     = 55 -> 45
+Ability: Static -> Static/Mold Breaker
+Notable Move Additions: Tail Glow at level 60
+
+Slugma:
+Evolves at level 16 into Magcargo
+
+Magcargo:
+Ability: Magma Armor/FlameBody -> Desolate Land/FlameBody
+
+Sunflora: 
+Type: Grass -> Grass/Normal
+HP        = 75
+Attack    = 55
+Defense   = 55
+SpAttack  = 105 -> 120
+SpDefense = 85
+Speed     = 35  ->  55
+Ability: Chlorophyll/Grassey Terrain
+
+Politoed:
+Type: Water/Normal
+Ability: Water Absorb/Drizzle/Punk Rock
+
+Swinub:
+HP        = 50 -> 70
+Attack    = 50 -> 60
+Defense   = 40 -> 50
+SpAttack  = 30
+SpDefense = 30
+Speed     = 50
+Ability: Thick Fat/Oblivious 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gen 3:
+Treecko:
+Type: Grass
+HP        = 40
+Attack    = 55 -> 75
+Defense   = 35
+SpAttack  = 65 -> 55
+SpDefense = 55
+Speed     = 70
+Ability: Overgrow/Unburden/Pickpocket
+
+Grovly:
+HP        = 50
+Attack    = 65 -> 85
+Defense   = 45
+SpAttack  = 85 -> 65
+SpDefense = 65
+Speed     = 95
+Ability: Overgrow//Unburden/Sharpness
+
+Sceptile: 
+HP        = 70
+Attack    = 85 -> 105
+Defense   = 65
+SpAttack  = 105 -> 85
+SpDefense = 85
+Speed     = 120
+Ability Overgrow/Sharpnes/Unburden
+
+Combusken:
+HP        = 60
+Attack    = 85
+Defense   = 60
+SpAttack  = 85 -> 75
+SpDefense = 60
+Speed     = 55 -> 65
+Ability: Blaze/Quick Feet/
+
+Blaziken:
+Ability: Blaze -> Striker 
+
+Marshtomp:
+Ability: Torret/Sheer Force/Swift Swim
+
+Swampert:
+Ability: Torret/Sheer Force/Swift Swim
+
+Blaziken:
+Ability: Blaze -> Striker
+
+Swampert Torret -> Sheer force
+
+Poocheyena:
+Evolves at level 16
+
+Mightyena: 
+Type: Dark/Normal
+Ablitity: Intimidate/Guts/Quick Feet
+
+Beautifly:
+Type: Bug/Fairy
+ABILITY: Swarm/Beserk/Honey Gather
+
+Surskit:
+HP        = 40
+Attack    = 30
+Defense   = 32 -> 35
+SpAttack  = 50 -> 70
+SpDefense = 52 -> 55
+Speed     = 65
+
+MASQUERAIN:
+Type: Bug/Water
+Ability: Levitate/Intimidate/Unnerve
+
+Breloom: 
+Ability: Technician/Poison Heal/Mycelium Might
+
+Mawile:
+Steel/Fairy
+HP        = 50 -> 70
+Attack    = 85 -> 105
+Defense   = 85
+SpAttack  = 55
+SpDefense = 55
+Speed     = 50
+Ability: Intimidate/Sheer Force/Hyper Cutter
+
+Numel:
+HP        = 60
+Attack    = 60
+Defense   = 40
+SpAttack  = 65
+SpDefense = 45 -> 65
+Speed     = 35 -> 15
+
+Camerupt:
+HP        = 70 -> 110
+Attack    = 100
+Defense   = 70  
+SpAttack  = 105
+SpDefense = 75  
+Speed     = 40
+Ability: Magma Armor/Water Absorb/Anger Point
+
+Ludicolo:
+Ability: Swftswim/Rain dish -> Rain Dish/Dancer
+Notabale Move Editions: Revelation Dance and Aqua Step
+
+Absol:
+Type: Dark/Fairy
+HP        = 65 -> 70   
+Attack    = 130
+Defense   = 60
+SpAttack  = 75
+SpDefense = 60
+Speed     = 75 -> 85
+Ability: SteadFast/Super Luck/Justified 
+
+Crawdaunt:
+Ability: its only ability is Adaptability 
+
+Solrock: 
+Type: Rock/Psychic
+Hp = 90 
+Attack    = 95 -> 110
+Defense   = 85
+SpAttack  = 55
+SpDefense = 65
+Speed     = 70 -> 90
+Ability: Levitate/Solar Power/Rock Head
+
+Pelipper: 
+Ability: Keen Eye/Drizzle -> Keen Eye/Adaptability
+
+Sableye:
+HP        = 50
+Attack    = 75 -> 85 
+Defense   = 75 -> 95
+SpAttack  = 65
+SpDefense = 65 -> 75
+Speed     = 50
+
+Lunatone:
+Type: Rock/Psychic
+HP        = 90
+Attack    = 55
+Defense   = 65
+SpAttack  = 95 -> 110
+SpDefense = 85
+Speed     = 70 -> 90
+Ability: Levitate/Shadow Shield/Intimidate
+
+Sharpedo:
+ABILITY: Speed boost/strong jaw
+
+Trapinch:
+Type: Ground -> Bug/Ground
+HP        = 45  -> 70
+Attack    = 100 -> 130
+Defense   = 45  -> 70
+SpAttack  = 45  
+SpDefense = 45  -> 70
+Speed     = 10
+Ability: Strong jaw/Earth eater 
+
+Kecleon:
+HP        = 60 -> 80
+Attack    = 90 -> 100
+Defense   = 70
+SpAttack  = 60
+SpDefense = 120
+Speed     = 40
+ABILITY: Protein/Mimicry
+
+Banette:
+TYPE = Ghost-> Ghost/Normal
+HP        = 74
+Attack    = 115
+Defense   = 85
+SpAttack  = 60
+SpDefense = 50
+Speed     = 71
+
+Trophius:
+Type: Grass/flying
+HP        = 99
+Attack    = 68 -> 100
+Defense   = 83
+SpAttack  = 72 -> 100
+SpDefense = 87
+Speed     = 56
+Ability: Harvest/Ripen/Chlorophyll
+
+Chimecho:
+Type: Psychic -> Psychic/Steel
+Ability: Punk Rock/Levitate
+
+Duskull:
+The entire Evolution Listen can learn Dark Void
+
+Dusknoir: 
+Ability: No Gaurd
+
+Shiftry:
+HP        = 90  -
+Attack    = 100 -> 110
+Defense   = 60
+SpAttack  = 90  -> 80
+SpDefense = 60
+Speed     = 80  -> 90
+Abilites: Wind Rider/Chlorophyll
+
+Castform
+HP        = 70                          
+Attack    = 70                          
+Defense   = 70                         
+SpAttack  = 70                          
+SpDefense = 70
+Speed     = 70  
+Ability: Drizzle/Drought/Snow Warning
+Castform's Form changes depending on the Weather Rock it holds when (Heat Rock Icy Rock, Damp Rock)
+
+Sunny Form
+HP        = 70                          
+Attack    = 60                          
+Defense   = 70                          
+SpAttack  = 130                          
+SpDefense = 70
+Speed     = 90 
+Ability: Flash fire
+
+Rainy Form
+HP        = 90                          
+Attack    = 70                          
+Defense   = 100                                                    
+SpAttack  = 70                          
+SpDefense = 110
+Speed     = 50 
+Ability: Storm Drain
+
+Icy Form
+HP        = 50                          
+Attack    = 90                          
+Defense   = 70                                                    
+SpAttack  = 100                          
+SpDefense = 70 
+Speed     = 110
+Ability: Wind Rider
+
+Shelgon:
+Type: Dragon -> Dragon/Steel
+HP        = 65
+Attack    = 95
+Defense   = 100 -> 115
+SpAttack  = 60
+SpDefense = 50 -> 80
+Speed     = 50
+Ability: Overcoat/Shell Armor
+
+Salamence:
+Abilities: Aerilate/Intimidate 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gen 4:
+Luxray:
+Type: Electric
+HP        = 80  -> 92
+Attack    = 120 
+Defense   = 79  -> 80
+SpAttack  = 95  -> 70
+SpDefense = 79  -> 94
+Speed     = 70  
+Ability: Keen eye/Intimidate/Guts
+
+Buneary:
+HP        = 55
+Attack    = 66 -> 76
+Defense   = 44
+SpAttack  = 44
+SpDefense = 56
+Speed     = 85
+Ability: Run away/Klutz -> Scrappy 
+
+Lopunny:
+HP        = 65
+Attack    = 76 -> 110 
+Defense   = 84
+SpAttack  = 54
+SpDefense = 96
+Speed     = 105
+Type: Normal -> Normal/Fighting
+Ability: Run away/Klutz -> Scrappy
+
+Combee
+Type: Bug/Flying
+HP        = 30 -> 60
+Attack    = 30 -> 60
+Defense   = 42 -> 82
+SpAttack  = 30 -> 60
+SpDefense = 42 -> 82
+Speed     = 70 
+Ability: Hustle/Honey Gather/Hive Mind
+
+Vespiquen
+Type: Bug/Flying
+HP        = 70 -> 96
+Attack    = 80
+Defense   = 102
+SpAttack  = 80
+SpDefense = 102
+Speed     = 40
+Ability: Queenly Majesty/Pressure/Honey Gather
+
+Electivire 
+HP        = 75  -> 85
+Attack    = 123 -> 116
+Defense   = 67  -> 80
+SpAttack  = 95  -> 90
+SpDefense = 85
+Speed     = 95  -> 86
+
+Togekiss
+Type: Fairy/Flying 
+HP        = 85
+Attack    = 50 -> 80
+Defense   = 95
+SpAttack  = 120
+SpDefense = 115
+Speed     = 80
+Ability: Hustle/Super Luck/Natural Cure
+
+Rotom
+Type: Electric/Ghost
+HP        = 
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability: Levitate/Transistor
+
+
+All rotom forms share the same stats
+HP        = 50
+Attack    = 65
+Defense   = 107
+SpAttack  = 105
+SpDefense = 107
+Speed     = 86
+
+Rotom Wash
+Type: Electric/Water
+Ability: Levitate/Clear Body
+
+Rotom Frost
+Type: Electric/Ice
+Ability: Levitate/Refrigerate 
+
+
+Rotom Fan
+Type: Electric/Flying
+Ability: MotorDrive/Sharpness
+
+Rotom Mow
+Type: Electric/Grass 
+Ability: Levitate/Speed boost
+
+Garchomp
+Type: Dragon/Ground
+HP        = 108
+Attack    = 130
+Defense   = 95
+SpAttack  = 80
+SpDefense = 85
+Speed     = 102
+Ability: Aerilate/Rough Skin/Speed Boost
+
+Mega Garchomp
+Type: Dragon/Ground
+HP        = 108
+Attack    = 170
+Defense   = 115
+SpAttack  = 120
+SpDefense = 95
+Speed     = 92
+Ability: Sharpness/Rough Skin/Sand Force
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gen 5:
+
+Golurk:
+Ghost/Ground
+HP        = 89
+Attack    = 124 -> 125
+Defense   = 80
+SpAttack  = 55 -> 115
+SpDefense = 80
+Speed     = 55
+Ability   = Iron Fist/Mega Launcher/No Guard 
+
+Beheeyem:
+Psychic -> Psychic/Electric 
+HP        = 75 -> 85
+Attack    = 75 -> 55
+Defense   = 75 -> 85
+SpAttack  = 125
+SpDefense = 95
+Speed     = 40
+Ability: Telepathy/Synchroniz  -> Levitate/Analytic 
+
+Gigalith:
+HP        = 85
+Attack    = 135
+Defense   = 130
+SpAttack  = 60 -> 90
+SpDefense = 80 
+Speed     = 25
+Ability: Sand Force/Sand stream/Rail Cannon
+
+Pawniard familty change: No longer learns Sucker Punch
+Pawniard:
+HP        = 45
+Attack    = 85
+Defense   = 70 -> 60
+SpAttack  = 40
+SpDefense = 40
+Speed     = 60 -> 70
+Ability: Defiant/Inner focus -> Inner Focus/Iron Barbs 
+
+Mega Garbodor:
+HP        = 80 -> 100
+Attack    = 95 -> 136
+Defense   = 82 -> 90
+SpAttack  = 60 -> 90
+SpDefense = 82 -> 90
+Speed     = 75 -> 55
+
+Bisharp:
+HP        = 65
+Attack    = 125
+Defense   = 100 -> 90
+SpAttack  = 60 
+SpDefense = 70
+Speed     = 70 -> 80
+Ability: Defiant/Inner focus -> Inner Focus/Iron Barbs 
+Evolves to Kingambit at level 64
+
+Kingambit:
+HP        = 100
+Attack    = 135 
+Defense   = 120
+SpAttack  = 60 
+SpDefense = 85
+Speed     = 50 
+
+Trubbish:
+HP        = 50
+Attack    = 50
+Defense   = 62
+SpAttack  = 40
+SpDefense = 62
+Speed     = 65
+Ability = Stench/Sticky Hold -> Aftermath/Sticky Hold
+Evolves into Garbodor at level 30
+Has a Chance to Hold Black Sludge 
+
+Mega Garbodor
+HP        = 80 
+Attack    = 95
+Defense   = 82
+SpAttack  = 60
+SpDefense = 82
+Speed     = 75
+
+Durant:
+Type: Bug/Steel
+HP        = 58
+Attack    = 109
+Defense   = 112
+SpAttack  = 48 -> 55
+SpDefense = 48 -> 58
+Speed     = 109
+Ability: Heatproof/Hustle/Hive Mind
+
+Heatmor:
+HP        = 85  -> 95
+Attack    = 97  -> 110
+Defense   = 66  -> 85
+SpAttack  = 105 -> 90
+SpDefense = 66  -> 76
+Speed     = 65  
+Abilitiy: Flash Fire/Gluttony/White Smoke
+
+Archen:
+HP        = 55  -> 57
+Attack    = 112 -> 90
+Defense   = 45  -> 55
+SpAttack  = 74
+SpDefense = 45  -> 55
+Speed     = 70
+
+Archeops:
+HP        = 75
+Attack    = 140 -> 125
+Defense   = 65  -> 75 
+SpAttack  = 112 -> 115
+SpDefense = 65  -> 75 
+Speed     = 110 -> 102
+
+Klingklang: 
+Type: Steel
+HP        = 60  -> 70
+Attack    = 100 -> 110
+Defense   = 115
+SpAttack  = 60
+SpDefense = 85
+Speed     = 90  
+Ability: Motor Drive/Clear Body
+
+Druddigon
+Type: Dragon -> Dragon/Rock
+HP        = 77
+Attack    = 120
+Defense   = 90
+SpAttack  = 60
+SpDefense = 90
+Speed     = 48 -> 63
+Ability: Rough Skin/Sheer Force/Protosynthesis 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gen 6:
+Trevenant: 
+HP        = 85  -> 101
+Attack    = 110 -> 120
+Defense   = 76
+SpAttack  = 65
+SpDefense = 82
+Speed     = 56
+Ability: Natural cure/Harvest 
+Evovles from phantump at level 40 
+Notable Move Changes: Forest's Cursed changed to a ghost type magma storm, Frenzy Plant is now a Grass type Outrage 
+
+Hisui Avalugg
+Type: Ice/Rock
+HP        = 95
+Attack    = 127
+Defense   = 184
+SpAttack  = 36
+SpDefense = 38
+Speed     = 38 -> 56
+Ability: Strong Jaw/Ice body/Slush Rush
+
+Zygarde 10%
+Type: Dragon/Ground
+HP        = 54  
+Attack    = 100 -> 114
+Defense   = 71
+SpAttack  = 61 
+SpDefense = 85
+Speed     = 115
+Ability: Strong Jaw/Aura Break/Power Construct 
+
+Zygarde 50%
+Type: Dragon/Ground
+HP        = 108
+Attack    = 100
+Defense   = 121
+SpAttack  = 81
+SpDefense = 95
+Speed     = 95
+Ability: Shed Skin/Aura Break/Power Construct 
+
+Zygarde 100%
+Type:Dragon/Ground
+HP        = 216 -> 255
+Attack    = 100
+Defense   = 121 -> 95
+SpAttack  = 91  -> 98
+SpDefense = 95
+Speed     = 85  -> 65
+Ability: Mega Launcher/Sheer Force/Power Construct 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gen 7: +5
+Decidueye:
+HP        = 78  -> 70
+Attack    = 107 -> 115
+Defense   = 75
+SpAttack  = 100 -> 80 
+SpDefense = 100 -> 90
+Speed     = 70  -> 105
+
+Grubbin:
+Type: Bug
+HP        = 47 
+Attack    = 62 -> 77
+Defense   = 42 -> 62
+SpAttack  = 55 -> 60
+SpDefense = 45 -> 55
+Speed     = 46
+Ability: Strong Jaw/Sap sipper
+
+Charjabug:
+Type: Bug/Electric
+HP        = 57 -> 65
+Attack    = 82 -> 92
+Defense   = 95 -> 112
+SpAttack  = 55
+SpDefense = 75 -> 90
+Speed     = 36
+Ability: Battery/Shell Armor/Electromorphosis
+
+Vikavolt:
+Type: Bug/Electric
+HP        = 77
+Attack    = 70
+Defense   = 90
+SpAttack  = 145 -> 125
+SpDefense = 75
+Speed     = 43  -> 113
+Ability: Railcannon (See ability changes)/Levitate/Parental Bond.
+
+Bounsweet:
+HP        = 42
+Attack    = 30 -> 60
+Defense   = 38 -> 58
+SpAttack  = 30
+SpDefense = 38 -> 58
+Speed     = 32
+
+Steenie:
+HP        = 52
+Attack    = 40 -> 90
+Defense   = 48 -> 78
+SpAttack  = 40
+SpDefense = 48 -> 78
+Speed     = 62
+
+Tsareena:
+HP        = 72
+Attack    = 120
+Defense   = 98
+SpAttack  = 50
+SpDefense = 98
+Speed     = 72
+
+Galarian stunfisk
+HP        = 109
+Attack    = 81
+Defense   = 99
+SpAttack  = 66
+SpDefense = 84
+Speed     = 32
+
+Expert Crabrawler (Give Crabrawler an expert belt)
+  
+HP        = 85
+Attack    = 120
+Defense   = 80
+SpAttack  = 42
+SpDefense = 67
+Speed     = 70
+
+Ultra Necrozma:
+Type: Fairy/Dragon
+HP        = 97
+Attack    = 167
+Defense   = 97
+SpAttack  = 167
+SpDefense = 97
+Speed     = 129
+Ability: Neuroforce/Victory Star/Levitate
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gen 8
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gen 9
+Spidops
+Type: Bug
+HP        = 60
+Attack    = 79
+Defense   = 92 
+SpAttack  = 52
+SpDefense = 86
+Speed     = 35
+Ability: Insomnia -> Insomnia/Stakeout
+
+Brambleghast
+Type: Grass/Ghost
+HP        = 55
+Attack    = 115
+Defense   = 70
+SpAttack  = 80
+SpDefense = 70
+Speed     = 90
+Ability: Wind Rider/Flare Boost/Infiltrator 

@@ -1,0 +1,390 @@
+All the move changes in the game: 
+
+Absorb: 
+20 -> 35 BP
+100 ACC
+Effect: Heals the user 50% of damage dealt 
+Type: Grass
+
+Aeroblast: 
+100 -> 90 BP
+95 ACC -> 100 ACC
+Effect: No longer has a secondary Effect 
+Type: Flying
+
+Aircutter:
+65 BP
+95 -> 100 ACC
+Effect: High crit rate
+Type: Flying
+
+Air Slash: 
+75 BP
+95 -> 100 ACC
+Effect: High crit rate 
+Type: Flying
+
+Arm thrust:
+15 -> 20 BP
+100 ACC
+Effect: Multi-hit move
+Type: Fighting
+
+Aqua step:
+80 -> 50 BP
+100 ACC
+Effect: Increase speed on hit. 
+Type: Water 
+
+Aqua Tail:
+90 BP
+90 -> 100 ACC
+Type: Water
+
+Astonish: 
+30 -> 40 BP
+100 ACC
+Effect: 100% Chance to Flinch. Cannot be used after the first the pokemon has been out.
+Type: Ghost
+
+Astral Barrage: 
+120 BP
+100 -> 85 ACC
+Type: Ghost
+
+Attack Order:
+90 BP
+100 ACC
+Effect: Increases attack and special attack of allies if used on them.
+
+Barb Barrage:
+60 -> 30 BP
+100 ACC
+Effect: Hits twice. Has a 30% chance to poison each hit and does double damages
+Type: Poison
+
+Bone Club:
+65 BP
+85 -> 100 ACC
+Effect: Hits flying type and levitate pokemon 
+Type: Ground 
+
+Bone Rush: 
+25 BP
+90 -> 100 ACC
+Effect: Hits 2-5 times 
+Type: Ground 
+
+Bounce: 
+100 BP
+85 -> 90 ACC
+Effect: 2 turn move. 30% Chance to paralyze the Target.
+
+Barrage: 
+Physical -> Special 
+15 -> 25 BP 
+100 ACC
+Effect: Multi-hit move
+Type: Normal -> Psychic 
+
+
+Blaze Kick:
+85 BP
+90 -> 100 ACC
+Effect: High crit rate with a chance to burn
+Type: Fire
+
+Bubble:
+40 -> 20 BP
+100 ACC
+Effect: Multi-hit move 
+Type: Water
+
+Clamp: 
+35 -> 100 BP
+85 ACC
+Effect: Traps target and damages them for 4-5 Turns
+Type: Water 
+
+Ceaseless Edge: 
+65 -> 60 BP
+90 -> 100 ACC
+Effect: Guranteed chance to crit 
+Type: Dark
+
+Crush Claw: 
+75 -> 85 BP
+95 -> 100 ACC
+Effect: 50% Chance to lower target's defense
+
+Cut:
+50 -> 70
+Effect: None -> High crit rate 
+Type: Normal -> Steel
+
+Covet:
+60 BP
+100 ACC
+Effect: Steal opponent's item
+Type: Normal -> Fairy
+
+Defense Order:
+Effect: Increases the defense of the user or an ally 
+
+Diamond storm: 
+100 BP
+95 -> 80 ACC
+Effect: Sharply raises defense
+Type: Rock
+
+Double hit:
+35 BP
+90 -> 100 ACC
+Effect: Hits twice
+Type: Normal
+
+Double Slap:
+25 BP
+85 -> 100 ACC
+Effect: hits 2-5 times 
+Type: Normal
+
+Dragon Rush
+120 BP
+75 -> 85 ACC
+Effect: 30% chance to lower oppoenents attack and special
+Type: Dragon
+
+Drill Peck:
+80 BP
+100 ACC
+Effect: High crit rate
+Type: Flying
+
+Dual Chop:
+40 BP
+90% ACC
+Effect: Hits twice. 20% chance to lower defense each hit
+Type: Dragon
+
+Dual WingBeat:
+40 BP
+100 ACC
+Effect: Hits twice
+Type: Flying
+
+Egg Bomb:
+100 -> 180 BP
+75 ACC
+Type: Normal
+
+Electro Web: 
+55 BP
+95 -> 100 ACC
+Effect: Lowers speed of the target
+Type: Electric 
+
+Encore: 
+100 ACC
+Effect: Negative priority. Forces opponent to keep using its last move for 3 turns.
+
+Endure:
+PP 10 -> 5
+
+Expanding Force: 
+80 -> 50 BP
+100 ACC
+Effect: Doubles in power ans hits both targets in psychic terrain
+Type: Psychic
+
+Fire fang: 
+65 BP
+95 -> 100 ACC
+Effect: 10% chance to burn and 10% chance to flinch
+
+Fire fang: 
+65 BP
+95 -> 100 ACC
+Effect: 10% chance to burn and 10% chance to flinch 
+
+Frenzy plant:
+150 -> 130 BP
+100 ACC
+Effect: User attacks for 2-3 turns and then becomes confused 
+Type: Grass
+
+Flying Press:
+100 BP
+95 -> 100 ACC
+Effect: Combines the type effectivness of both Fighting and flying.
+Type: Fighting
+
+Freeze Shock:
+140 BP
+90 ACC
+Effect: 20% chance to paralyze. Cant be used twice
+Type: Ice
+
+Gear grind:
+50 BP
+85 -> 100 ACC
+Effect: Hits twice
+Type: Steel
+
+Hard Press:
+1-100 -> 1-120 BP
+100 ACC
+Effect: Damage based on HP
+Type: Steel
+
+Horn Drill:
+0 -> 150 BP
+30 -> 50 ACC
+Effect: None
+Type: Ground
+
+Incinerate:
+60 -> 50 BP
+100 ACC
+Effect: Burns berries
+Type: Fire 
+
+Knock off:
+65 -> 40 BP
+100 ACC
+Effect: Doubles in power if the target is holding an item and removes it.
+Type: Dark
+
+Mega Punch:
+85 -> 100 BP
+85 ACC
+Effect: 30% chance to increase attack.
+Type: Normal
+
+Mirror Shot:
+65 -> 60 BP
+85 -> 100 ACC
+Effect: 30% to Lower Evasion
+Type: Steel
+
+Mud shot:
+55 BP
+95 -> 100 ACC
+Effect: 30% chance to lower speed
+Type: Ground 
+
+Octazooka:
+65 -> 90 BP
+85 ACC -> 100 ACC
+Effect: chance to lowers accuracy -> Damages pokemon next to the target in doubles
+Type: Water
+
+Razor leaf:
+55 BP
+95 -> 100 ACC
+Effect: High crit rate/Hits both opponents in doubles
+Type: Grass 
+
+Razor shell:
+75 BP
+95 -> 100 ACC
+Effect: 50% chance to lower Defense
+Type: Water
+
+Razor wind:
+80 BP
+100 ACC
+Effect: No longer takes a turn to charge 
+Type: Normal
+
+Rock Smash:
+40 -> 60 BP
+100 ACC
+Effect: 30% Chance to lower the defense of opposing pokemon
+Type: Fighting
+
+Rock Throw:
+50 BP
+90 -> 100 ACC
+Type: Rock
+
+Rock Tomb:
+60 BP
+95 -> 100 Acc
+Effect: Lowers Speed on opposing Pokemon
+Type: Rock
+
+Sky Uppercut:
+70 BP
+90 ACC -> 100 ACC
+Effect: Flying and Levitate pokemon takes super effective damage 
+Type: Fighting 
+
+Smog:
+30 BP
+70 -> 100 ACC
+Effect: 100% chance to poison
+Type: Poison
+
+Steel Beam:
+150 BP
+95 -> 100 ACC
+Effect: uses 50% of the users HP every time its used
+Type: Steel
+
+Spike Cannon: 
+25 BP
+100 ACC
+Effect: Multi-hit move 
+Type: Normal -> Steel 
+
+
+Supercell Slam:
+100 -> 130 BP 
+95 -> 90 ACC
+Effect: Takes away haft HP in recoil if the move fails to hit 
+Type: Electric 
+
+Torch song: 
+80 -> 50 BP
+100 ACC
+Effect: Increases special attack by one stage 
+Type: Fire
+Interactions: Boosted by Technician, Punk Rock and its a sound move
+
+Triple Dive:
+30 BP
+95 -> 100 ACC
+Effect: Hits 3 times 
+Type: Water
+
+Twineedle:
+25 -> 35 BP
+100 ACC
+Effect: Hits twice with a 20% chance to poison each hit
+Type: Bug
+
+Vine Whipe:
+35 BP
+100 ACC
+Effect: Hits Twice
+type: Grass
+Interaction: Does not make Contact
+
+Wild Charge:
+90 BP
+100 ACC
+Effect: No longer a recoil move 
+Type: Electric
+
+Zap Cannon:
+120 -> 150 BP
+50% ACC
+Effect: 100% Chance to paralyze
+Type: Electric 
+
+Zen Headbutt:
+80 BP
+90 -> 100 ACC
+Effect: 20% chance to flinch 
+Type: Psychic 
