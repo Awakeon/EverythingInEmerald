@@ -606,11 +606,60 @@ SpDefense = 95
 Speed     = 70
 Ability: Thick Fat/Swift Swim/Lighting Rod
 
+Seaking
+Type: Water/Normal
+HP        = 80
+Attack    = 91 -> 112
+Defense   = 65
+SpAttack  = 65 -> 60
+SpDefense = 80
+Speed     = 68
+Ability: Lighting Rod/Swift Swim/Dancer
+
+Hypno:
+Type: Psychic/Dark
+HP        = 85
+Attack    = 63
+Defense   = 70
+SpAttack  = 73  -> 100
+SpDefense = 115 -> 125
+Speed     = 67
+Ability: Prankster/Inner Focus
+
+Mega Eevee
+Type: Normal
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability: 
+
 Kabutops:
-Abiltiy: Battle Armor->Sharpness
+Abiltiy: Battle Armor-> Sharpness
 Notable Move additions: Razor shell and Stone axe 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Gen 2 Pokemon:
+Ledian
+Type: Bug/Flying
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability: 
+
+ledian
+Type: Bug/Flying 
+HP        = 55  -> 75
+Attack    = 35  -> 65
+Defense   = 50  -> 65
+SpAttack  = 55  -> 35
+SpDefense = 110 -> 125
+Speed     = 85  -> 100
+Ability: Skill Link/Emergency Exit/Victory Star
 
 Ariados:
 HP        = 70 -> 100
@@ -675,6 +724,16 @@ Ability: Chlorophyll/Grassey Terrain
 Politoed:
 Type: Water/Normal
 Ability: Water Absorb/Drizzle/Punk Rock
+
+Octillery
+Type: Water
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
 
 Swinub:
 HP        = 50 -> 70
@@ -1016,6 +1075,16 @@ SpDefense = 115
 Speed     = 80
 Ability: Hustle/Super Luck/Natural Cure
 
+Bastiodon
+Type: Rock/Steel
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability: 
+
 Rotom
 Type: Electric/Ghost
 HP        = 
@@ -1060,17 +1129,17 @@ Defense   = 95
 SpAttack  = 80
 SpDefense = 85
 Speed     = 102
-Ability: Aerilate/Rough Skin/Speed Boost
+Ability: Sand Rush/Rough Skin/Strong Jaw
 
 Mega Garchomp
 Type: Dragon/Ground
 HP        = 108
 Attack    = 170
 Defense   = 115
-SpAttack  = 120
-SpDefense = 95
+SpAttack  = 120 
+SpDefense = 95  
 Speed     = 92
-Ability: Sharpness/Rough Skin/Sand Force
+Ability: Sand Force/Rough Skin/Sharpness
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Gen 5:
 
@@ -1201,7 +1270,7 @@ Defense   = 115
 SpAttack  = 60
 SpDefense = 85
 Speed     = 90  
-Ability: Motor Drive/Clear Body
+Ability: Motor Drive/Clear Body/Strong Jaw
 
 Druddigon
 Type: Dragon -> Dragon/Rock
@@ -1358,6 +1427,55 @@ Ability: Neuroforce/Victory Star/Levitate
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Gen 8
 
+Corviknight
+Type: Steel/Flying
+HP        = 98 -> 103
+Attack    = 87
+Defense   = 105
+SpAttack  = 53
+SpDefense = 85
+Speed     = 67
+Ability: Pressure/Unnerve/Mirror Armor
+
+Mega Corviknight
+Type: Steel/Flying
+HP        = 103
+Attack    = 130
+Defense   = 115
+SpAttack  = 80
+SpDefense = 95
+Speed     = 77
+Ability: Blade Birds (The user attacks 5 times for an effective boost of 40%. Only the first hit can trigger secondary effects.)
+
+Hatterne 
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability: 
+
+Grimmsnarl:
+Type: Dark/Fairy
+HP        = 95
+Attack    = 120
+Defense   = 65
+SpAttack  = 95 
+SpDefense = 75
+Speed     = 60
+Ability: Fur Coat/Pranskter/Pick Pocket
+
+Mega Grimmsnarl
+Type: Dark/Fairy
+HP        = 95
+Attack    = 150
+Defense   = 65
+SpAttack  = 135
+SpDefense = 75
+Speed     = 100
+Ability: No Gaurd
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Gen 9
 Spidops
@@ -1379,3 +1497,4 @@ SpAttack  = 80
 SpDefense = 70
 Speed     = 90
 Ability: Wind Rider/Flare Boost/Infiltrator 
+
