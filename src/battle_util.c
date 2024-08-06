@@ -9320,7 +9320,7 @@ static inline u32 CalcMoveBasePowerAfterModifiers(u32 move, u32 battlerAtk, u32 
         break;
     case ABILITY_SHARPNESS:
         if (gMovesInfo[move].slicingMove)
-           modifier = uq4_12_multiply(modifier, UQ_4_12(1.5));
+           modifier = uq4_12_multiply(modifier, UQ_4_12(1.2));
         break;
     case ABILITY_SUPREME_OVERLORD:
         modifier = uq4_12_multiply(modifier, GetSupremeOverlordModifier(battlerAtk));

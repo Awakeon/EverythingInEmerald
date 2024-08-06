@@ -18960,7 +18960,7 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_DYNAMAX] =
             "Can poison on impact. Powers\n"
             "up against poisoned foes."),
         .effect = EFFECT_DOUBLE_POWER_ON_ARG_STATUS,
-        .power = 60,
+        .power = 30,
         .type = TYPE_POISON,
         .accuracy = 100,
         .pp = B_UPDATED_MOVE_DATA >= GEN_9 ? 10 : 15,
@@ -18968,9 +18968,10 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_DYNAMAX] =
         .priority = 0,
         .category = DAMAGE_CATEGORY_PHYSICAL,
         .argument = STATUS1_PSN_ANY,
+        .strikeCount = 2,
         .additionalEffects = ADDITIONAL_EFFECTS({
             .moveEffect = MOVE_EFFECT_POISON,
-            .chance = 50,
+            .chance = 30,
         }),
         .battleAnimScript = Move_BARB_BARRAGE,
     },
