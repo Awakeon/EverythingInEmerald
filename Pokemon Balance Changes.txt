@@ -135,6 +135,7 @@ Speed     = 70
 Ability: Compound Eyes/Honey Gather/Toxic Dust
 
 Beedrill:
+Type: Bug/Poison
 HP        = 65
 Attack    = 90 -> 100
 Defense   = 40
@@ -142,6 +143,16 @@ SpAttack  = 45
 SpDefense = 80
 Speed     = 75 -> 90
 Ability: Swarm -> Meciless/Swarm/Hive Mind
+
+Pidgeot:
+Type: Normal/Flying
+HP        = 83 
+Attack    = 80 -> 119
+Defense   = 75
+SpAttack  = 70 -> 87
+SpDefense = 70
+Speed     = 101
+Ability: Keen eye/Gale Wings/
 
 Rattata
 Type: Normal
@@ -154,7 +165,7 @@ Speed     = 72
 Ability: Run Away/Strong Jaw
 
 Raticate: 
-Ability: Runaway/Guts -> Strong jaw/Swft Swim/Thick Fat
+Ability: Strong jaw/Swft Swim/Thick Fat
 
 Fearow
 Type: Normal/Flying
@@ -309,11 +320,18 @@ Speed     = 65
 Ability: Tough Claws/Sush Rush/Iron Barbs
 
 Nidoking: 
-Ability: Poison point/Rivalry -> Sheer force/Rivalry
+Type: Poison/Ground
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability: Poison Point/Sheer force/Rivalry
 
 Nidoqueen Poison point/Rivalry -> Supreme Overlord/Poison point
 
-Vulpix
+Vulpix:
 Type: Fire
 HP        = 38 -> 40
 Attack    = 41
@@ -323,7 +341,7 @@ SpDefense = 65
 Speed     = 65
 Ability: Flash Fire/Drought
 
-Ninetales
+Ninetales:
 Type: Fire/Fairy
 HP        = 73 -> 75
 Attack    = 76
@@ -343,7 +361,7 @@ SpDefense = 65 -> 75
 Speed     = 65 -> 75
 Ability: Dazzling/Snow Warning
 
-Alolan Ninetales
+Alolan Ninetales:
 Type: Ice/Fairy
 HP        = 73  -> 75
 Attack    = 70
@@ -578,10 +596,83 @@ SpDefense = 85 -> 105
 Speed     = 55 -> 70
 
 Scyther:
-ABILITY: SWARM-> SHARPNESS/HYPER CUTTER
+Type: Bug/Flying
+HP        = 70 
+Attack    = 110
+Defense   = 80
+SpAttack  = 55
+SpDefense = 80
+Speed     = 105
+Ability: Hyper Cutter/Sniper/Speed Boost
+
+Scizor:
+Type: Bug/Steel
+HP        = 70
+Attack    = 130
+Defense   = 100
+SpAttack  = 55
+SpDefense = 80
+Speed     = 65
+Ability: Intimidate/Technician/Light Metal
+
+Kleavor:
+Type: Bug/Rock
+HP        = 70
+Attack    = 135
+Defense   = 95
+SpAttack  = 45
+SpDefense = 70
+Speed     = 85
+Ability: Sturdy/Sharpness/Weak Armor
+
+Tauros
+Type: Normal
+HP        = 75  -> 85
+Attack    = 100
+Defense   = 95
+SpAttack  = 40
+SpDefense = 70
+Speed     = 110
+Ability: Intimidate/Anger Point/Sheer Force
+
+Taurs Combat Breed
+Type: Fighting
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability: 
+
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability: 
+
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability: 
 
 Flareon:
-ABILITY: Flash fire and Guts-> Quick feet and Fluffy 
+Type: Fire
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+Ability: Flash fire and Guts-> Quick feet and Fluffy 
 
 Starmie:
 HP        = 60
@@ -1164,6 +1255,7 @@ Speed     = 40
 Ability: Telepathy/Synchroniz  -> Levitate/Analytic 
 
 Gigalith:
+Type: Rock
 HP        = 85
 Attack    = 135
 Defense   = 130
@@ -1174,6 +1266,7 @@ Ability: Sand Force/Sand stream/Rail Cannon
 
 Pawniard familty change: No longer learns Sucker Punch
 Pawniard:
+Type: Dark/Steel
 HP        = 45
 Attack    = 85
 Defense   = 70 -> 60
@@ -1183,6 +1276,7 @@ Speed     = 60 -> 70
 Ability: Defiant/Inner focus -> Inner Focus/Iron Barbs 
 
 Mega Garbodor:
+Type: Poison
 HP        = 80 -> 100
 Attack    = 95 -> 136
 Defense   = 82 -> 90
@@ -1191,6 +1285,7 @@ SpDefense = 82 -> 90
 Speed     = 75 -> 55
 
 Bisharp:
+Type: Dark/Steel
 HP        = 65
 Attack    = 125
 Defense   = 100 -> 90
@@ -1201,6 +1296,7 @@ Ability: Defiant/Inner focus -> Inner Focus/Iron Barbs
 Evolves to Kingambit at level 64
 
 Kingambit:
+Type: Dark/Steel
 HP        = 100
 Attack    = 135 
 Defense   = 120
@@ -1272,7 +1368,7 @@ SpDefense = 85
 Speed     = 90  
 Ability: Motor Drive/Clear Body/Strong Jaw
 
-Druddigon
+Druddigon:
 Type: Dragon -> Dragon/Rock
 HP        = 77
 Attack    = 120
