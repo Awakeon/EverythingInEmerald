@@ -1283,6 +1283,182 @@ Speed     = 48 -> 63
 Ability: Rough Skin/Sheer Force/Protosynthesis 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Gen 6:
+
+Chespin
+Type: Grass
+HP        = 56 -> 61
+Attack    = 61 -> 81
+Defense   = 65
+SpAttack  = 48 -> 28
+SpDefense = 45
+Speed     = 38
+Ability: Overgrow/Iron Barbs/Bulletproof
+
+Quillidin
+Type: Grass
+HP        = 61 -> 66 
+Attack    = 78 -> 98
+Defense   = 95
+SpAttack  = 56 -> 36
+SpDefense = 58
+Speed     = 57
+Ability: Overgrow/Iron Barbs/Bulletproof
+
+Chesnaught
+Type: Grass/Fighting
+HP        = 88 
+Attack    = 107 -> 132
+Defense   = 122
+SpAttack  = 74  -> 54
+SpDefense = 75
+Speed     = 64
+Ability: Overgrow/Iron Barbs/Bullet Proof
+
+Fennekin
+Type: Fire
+HP        = 40
+Attack    = 45
+Defense   = 40
+SpAttack  = 62 -> 63
+SpDefense = 60
+Speed     = 60 -> 70
+Ability: Blaze/Flash Fire/Magician
+
+Braixen
+Type: Fire
+HP        = 59 
+Attack    = 59
+Defense   = 58
+SpAttack  = 90
+SpDefense = 70
+Speed     = 73
+Ability:
+
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
+
+Type: 
+HP        =  
+Attack    = 
+Defense   = 
+SpAttack  = 
+SpDefense = 
+Speed     = 
+Ability:
 Trevenant: 
 HP        = 85  -> 101
 Attack    = 110 -> 120
