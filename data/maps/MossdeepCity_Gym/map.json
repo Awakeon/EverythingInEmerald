@@ -12,7 +12,7 @@
   "allow_running": false,
   "show_map_name": false,
   "battle_scene": "MAP_BATTLE_SCENE_GYM",
-  "connections": null,
+  "connections": 0,
   "object_events": [
     {
       "graphics_id": "OBJ_EVENT_GFX_TATE",
@@ -488,22 +488,22 @@
       "x": 6,
       "y": 35,
       "elevation": 3,
-      "dest_map": "MAP_MOSSDEEP_CITY",
-      "dest_warp_id": "1"
+      "dest_map": "MAP_CANUVAR",
+      "dest_warp_id": "0"
     },
     {
       "x": 7,
       "y": 35,
       "elevation": 3,
-      "dest_map": "MAP_MOSSDEEP_CITY",
-      "dest_warp_id": "1"
+      "dest_map": "MAP_CANUVAR",
+      "dest_warp_id": "0"
     },
     {
       "x": 3,
       "y": 28,
       "elevation": 0,
       "dest_map": "MAP_MOSSDEEP_CITY_GYM",
-      "dest_warp_id": "3"
+      "dest_warp_id": "2"
     },
     {
       "x": 1,
@@ -513,21 +513,14 @@
       "dest_warp_id": "2"
     },
     {
-      "x": 7,
-      "y": 18,
+      "x": 8,
+      "y": 12,
       "elevation": 0,
       "dest_map": "MAP_MOSSDEEP_CITY_GYM",
       "dest_warp_id": "5"
     },
     {
       "x": 8,
-      "y": 12,
-      "elevation": 0,
-      "dest_map": "MAP_MOSSDEEP_CITY_GYM",
-      "dest_warp_id": "4"
-    },
-    {
-      "x": 9,
       "y": 18,
       "elevation": 0,
       "dest_map": "MAP_MOSSDEEP_CITY_GYM",
@@ -538,7 +531,7 @@
       "y": 20,
       "elevation": 0,
       "dest_map": "MAP_MOSSDEEP_CITY_GYM",
-      "dest_warp_id": "6"
+      "dest_warp_id": "12"
     },
     {
       "x": 1,
@@ -552,14 +545,14 @@
       "y": 24,
       "elevation": 0,
       "dest_map": "MAP_MOSSDEEP_CITY_GYM",
-      "dest_warp_id": "8"
+      "dest_warp_id": "2"
     },
     {
       "x": 11,
       "y": 3,
       "elevation": 0,
       "dest_map": "MAP_MOSSDEEP_CITY_GYM",
-      "dest_warp_id": "11"
+      "dest_warp_id": "12"
     },
     {
       "x": 11,
@@ -580,7 +573,7 @@
       "y": 10,
       "elevation": 0,
       "dest_map": "MAP_MOSSDEEP_CITY_GYM",
-      "dest_warp_id": "12"
+      "dest_warp_id": "6"
     }
   ],
   "coord_events": [
