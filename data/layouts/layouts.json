@@ -4414,8 +4414,8 @@
     {
       "id": "LAYOUT_CANUVAR",
       "name": "Canuvar_Layout",
-      "width": 24,
-      "height": 30,
+      "width": 35,
+      "height": 47,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Rustboro",
       "border_filepath": "data/layouts/Canuvar/border.bin",
