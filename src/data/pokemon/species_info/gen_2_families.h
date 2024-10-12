@@ -1003,10 +1003,10 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .height = 14,
         .weight = 356,
         .description = COMPOUND_STRING(
-            "It is said that in lands with clean air,\n"
-            "where the stars fill the sky, there live\n"
-            "many Ledian. For good reason, they use\n"
-            "the light of the stars as energy."),
+            "Ledian will defend its friends to its last\n"
+            "breath, It often gets into intense battles\n"
+            "with Beedrill and Vespiquen. It uses starlight\n"
+            "energy and psychic powers in combat."),
         .pokemonScale = 256,
         .pokemonOffset = 2,
         .trainerScale = 256,
