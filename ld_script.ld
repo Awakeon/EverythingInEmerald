@@ -1265,6 +1265,9 @@ SECTIONS {
         sound/songs/midi/ph_nurse_blend.o(.rodata);
         sound/songs/midi/ph_nurse_held.o(.rodata);
         sound/songs/midi/ph_nurse_solo.o(.rodata);
+        sound/songs/midi/mus_vs_gym_leader_remix.o(.rodata);
+        sound/songs/midi/mus_waterfall_colosseum.o(.rodata);
+        sound/songs/midi/mus_Colress.o(.rodata);
     } > ROM =0
 
     lib_rodata :

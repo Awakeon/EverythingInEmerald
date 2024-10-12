@@ -17,6 +17,7 @@
     "gMapGroup_IndoorMossdeep",
     "gMapGroup_IndoorSootopolis",
     "gMapGroup_IndoorEverGrande",
+    "gMapGroup_IndoorCanuvar",
     "gMapGroup_IndoorRoute104",
     "gMapGroup_IndoorRoute111",
     "gMapGroup_IndoorRoute112",
@@ -295,6 +296,9 @@
     "EverGrandeCity_PokemonCenter_1F",
     "EverGrandeCity_PokemonCenter_2F",
     "EverGrandeCity_PokemonLeague_2F"
+  ],
+  "gMapGroup_IndoorCanuvar": [
+    "CanuvarCity_Gym"
   ],
   "gMapGroup_IndoorRoute104": [
     "Route104_MrBrineysHouse",

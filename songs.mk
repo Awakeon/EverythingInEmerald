@@ -1262,3 +1262,12 @@ $(MID_SUBDIR)/se_m_leer.s: %.s: %.mid
 
 $(MID_SUBDIR)/se_dex_search.s: %.s: %.mid
 	$(MID) $< $@ -E -R$(STD_REVERB) -G127 -v100 -P5
+
+$(MID_SUBDIR)/mus_vs_gym_leader_remix.s: %.s: %.mid
+	$(MID) $< $@ -E -R$(STD_REVERB) -G191 -V100 -P1
+
+$(MID_SUBDIR)/mus_waterfall_colosseum.s: %.s: %.mid
+	$(MID) $< $@ -E -R$(STD_REVERB) -G191 -V100 -P1
+
+$(MID_SUBDIR)/mus_colress.s: %.s: %.mid
+	$(MID) $< $@ -E -R$(STD_REVERB) -G191 -V100 -P1
