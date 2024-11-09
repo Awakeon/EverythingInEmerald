@@ -138,14 +138,32 @@ Debug_EventScript_Text_DefensiveIVs:
 	.string "HP IVs: {STR_VAR_1}, DEF IVs: {STR_VAR_2}, SPDEF IVs: {STR_VAR_3}$"
 
 Debug_EventScript_Script_1::
+    setflag FLAG_BADGE01_GET
+    setflag FLAG_BADGE02_GET
+    setflag FLAG_BADGE03_GET
+    setflag FLAG_BADGE04_GET
+    setflag FLAG_BADGE05_GET
+    setflag FLAG_BADGE06_GET
+    setflag FLAG_BADGE07_GET
+    setflag FLAG_BADGE08_GET
+    givemon SPECIES_WOBBUFFET,100,ITEM_LEPPA_BERRY
+    givemon SPECIES_GYARADOS,100,ITEM_GYARADOSITE
+    additem ITEM_MEGA_RING,1
+    setwildbattle SPECIES_WOBBUFFET,100,ITEM_LEPPA_BERRY
+    dowildbattle
+    release
 	release
 	end
 
 Debug_EventScript_Script_2::
+	special ChooseHalfPartyForBattle
+	waitstate
+    multi_2_vs_2 TRAINER_MAXIE_MOSSDEEP, MossdeepCity_SpaceCenter_2F_Text_JustWantToExpandLand, TRAINER_TABITHA_MOSSDEEP, MossdeepCity_SpaceCenter_Text_TabithaDefeat, PARTNER_STEVEN
 	release
 	end
 
 Debug_EventScript_Script_3::
+	trainerbattle_no_intro TRAINER_RED, PetalburgWoods_Text_YoureKiddingMe
 	release
 	end
 
