@@ -5949,9 +5949,32 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Poochyena
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Patrat @ Iapapa Berry  
+Ability: Forewarn  
+Level: 8
+IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe  
+- Tackle  
+- Bite  
+- Low Kick  
+- Stuff Cheeks  
+
+Poochyena  
+Ability: Strong Jaw  
+Level: 8
+IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe    
+- Bite  
+- Tackle  
+- Lick  
+- Growl  
+
+Zigzagoon @ Oran Berry  
+Ability: Gluttony  
+Level: 8  
+IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe  
+- Tackle  
+- Mud-Slap  
+- Growl  
+- Covet  
 
 === TRAINER_BILLY ===
 Name: BILLY
@@ -11257,13 +11280,22 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Wurmple
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Cascoon  
+Ability: Shed Skin  
+Level: 10
+IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe    
+- Poison Sting  
+- Fury Attack  
+- String Shot  
+- Bug Bite  
 
-Wurmple
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Surskit  
+Ability: Swift Swim  
+Level: 10
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe   
+- Water Gun  
+- Struggle Bug  
+
 
 === TRAINER_LYLE ===
 Name: LYLE
