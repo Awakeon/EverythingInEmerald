@@ -4427,7 +4427,7 @@
       "width": 23,
       "height": 20,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_FortreeGym",
+      "secondary_tileset": "gTileset_PetalburgGym",
       "border_filepath": "data/layouts/CanuvarCity_Gym/border.bin",
       "blockdata_filepath": "data/layouts/CanuvarCity_Gym/map.bin"
     },
@@ -4435,7 +4435,7 @@
       "id": "LAYOUT_CANUVAR_PARK",
       "name": "CanuvarPark_Layout",
       "width": 40,
-      "height": 20,
+      "height": 40,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Rustboro",
       "border_filepath": "data/layouts/CanuvarPark/border.bin",
